@@ -50,3 +50,8 @@ nav ul i a {
   padding-top:300px;
   text-decoration-color: red;
 }
+#main {
+  background:rgb(6.3, 9.4, 13.7);
+  height: 60%;
+  width: 100%;
+}
