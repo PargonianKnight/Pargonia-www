@@ -56,8 +56,7 @@ nav ul i a {
   width: 100%;
 }
 #twitch-embed {
-  width: 640px;
-  height: 360px;
-  border: 1px solid white;
+  width: 854;
+  height: 480;
   margin: auto;
 }
