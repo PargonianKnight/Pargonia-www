@@ -55,3 +55,9 @@ nav ul i a {
   height: 60%;
   width: 100%;
 }
+#streambox {
+  width: 640;
+  height:360;
+  border: 1px solid black;
+  margin: auto;
+}
